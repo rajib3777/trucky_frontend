@@ -64,7 +64,7 @@ function App() {
       // setLogData(fakeData);
 
       const response = await axios.post(
-        "https://trucky.onrender.com/api/trip/plan/",
+        "https://trucky.onrender.com/api/trips/plan/",
         tripData,
         {
           headers: {

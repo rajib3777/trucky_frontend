@@ -1,0 +1,10 @@
+.map-container-wrapper {
+  margin-bottom: 20px; 
+}
+
+.map-container {
+  height: 400px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
